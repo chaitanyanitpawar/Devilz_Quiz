@@ -1,0 +1,2 @@
+# Devilz_Quiz
+A Quiz App Made Using HTML CSS JAVASCRIPT AND BOOTSTRAP
